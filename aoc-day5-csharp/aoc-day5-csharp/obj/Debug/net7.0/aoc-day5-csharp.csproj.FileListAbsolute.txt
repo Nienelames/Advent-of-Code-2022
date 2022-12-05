@@ -1,0 +1,15 @@
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\bin\Debug\net7.0\aoc-day5-csharp.exe
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\bin\Debug\net7.0\aoc-day5-csharp.deps.json
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\bin\Debug\net7.0\aoc-day5-csharp.runtimeconfig.json
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\bin\Debug\net7.0\aoc-day5-csharp.dll
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\bin\Debug\net7.0\aoc-day5-csharp.pdb
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\aoc-day5-csharp.csproj.AssemblyReference.cache
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\aoc-day5-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\aoc-day5-csharp.AssemblyInfoInputs.cache
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\aoc-day5-csharp.AssemblyInfo.cs
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\aoc-day5-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\aoc-day5-csharp.dll
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\refint\aoc-day5-csharp.dll
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\aoc-day5-csharp.pdb
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\aoc-day5-csharp.genruntimeconfig.cache
+C:\Users\Public\aoc\aoc-day5-csharp\aoc-day5-csharp\obj\Debug\net7.0\ref\aoc-day5-csharp.dll
