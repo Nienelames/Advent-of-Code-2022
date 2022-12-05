@@ -1,0 +1,15 @@
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\bin\Debug\net7.0\Advent of Code - Day 1.exe
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\bin\Debug\net7.0\Advent of Code - Day 1.deps.json
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\bin\Debug\net7.0\Advent of Code - Day 1.runtimeconfig.json
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\bin\Debug\net7.0\Advent of Code - Day 1.dll
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\bin\Debug\net7.0\Advent of Code - Day 1.pdb
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\Advent of Code - Day 1.csproj.AssemblyReference.cache
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\Advent of Code - Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\Advent of Code - Day 1.AssemblyInfoInputs.cache
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\Advent of Code - Day 1.AssemblyInfo.cs
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\Advent of Code - Day 1.csproj.CoreCompileInputs.cache
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\Advent of Code - Day 1.dll
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\refint\Advent of Code - Day 1.dll
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\Advent of Code - Day 1.pdb
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\Advent of Code - Day 1.genruntimeconfig.cache
+C:\Users\Ponas Amungas\source\repos\Advent of Code\Advent of Code - Day 1\Advent of Code - Day 1\obj\Debug\net7.0\ref\Advent of Code - Day 1.dll
